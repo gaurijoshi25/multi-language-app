@@ -6,7 +6,7 @@ export const About = () => {
     return (
       <main>
         <h1>{t("about")}</h1>
-        <span>{t("user", { name: "Bruce Wayne 🦇" })}</span>
+        <span>{t("user", { name: "Gauri Joshi 🦇" })}</span>
       </main>
     );
   };
